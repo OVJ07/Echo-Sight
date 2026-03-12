@@ -1,9 +1,4 @@
 # Echo-Sight
-Understood. Here is a **short, formal, professional README** suitable for GitHub and hackathon review, with **no extra detail and no exclusions listed**.
-
----
-
-# Echo-Sight
 
 ## Overview
 
