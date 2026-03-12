@@ -27,6 +27,3 @@ The project follows a modular architecture with separate components for camera h
 
 Developed as part of a 72-hour hackathon prototype focused on stability and real-time performance.
 
----
-
-If you want it even shorter (for a strict submission format), I can compress this to **5–6 lines** without losing professionalism.
